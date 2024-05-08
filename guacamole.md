@@ -8,5 +8,6 @@
 
 ## Steps
 
-1. Scoop the avocado into a bowl
-2. 
+1. Cut the avocado in half
+2. Scoop the avocado into a bowl
+3. Smash the avocado
